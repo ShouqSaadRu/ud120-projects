@@ -35,4 +35,3 @@ accuracy = accuracy_score(labels_test , pred)
 
 print("accuracy: " , accuracy)
 
-
