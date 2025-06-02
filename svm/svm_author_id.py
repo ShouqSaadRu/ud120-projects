@@ -35,8 +35,6 @@ accuracy = accuracy_score(labels_test , pred)
 
 print("accuracy: " , accuracy)
 
-chris_count = list(pred).count(1)
-print("Number of predicted Chris emails:", chris_count)
 
 
 
